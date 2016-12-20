@@ -1,4 +1,6 @@
 begin
 
-deveoper b
-ccc
+
+
+bug a
+fix bug a
